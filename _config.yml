@@ -1,0 +1,28 @@
+name: Xavior Spade
+favicon: null
+layout_spectrum: 0.16904493840411305
+typography_spectrum: 0.8570860354229808
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.035233189119026065
+  lightness: 0.47857186617329717
+  saturation: 0.47175842453725636
+  rhythmicContrast: 0.892006087815389
+purpose: []
